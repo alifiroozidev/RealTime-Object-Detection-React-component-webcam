@@ -2,12 +2,12 @@
 
 This repo contains the code needed to build an object detection web app using TensorFlow.js and React. The app, uses the computer's webcam stream to perform real-time object detections in every frame it receives.
 
-![AI](erpo-assets/1.png)
+![AI](title.png)
 
 ### The model
 The model featured in the app, is a pre-trained [COCO SSD](https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd) system.
 
-![AI](erpo-assets/obj.png)
+![AI](1.png)
 
 ### Requirements
 Only a browser and a local web server.
